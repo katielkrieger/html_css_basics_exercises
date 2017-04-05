@@ -1,0 +1,66 @@
+body {
+
+	padding-left: 5%;
+	padding-right: 5%;
+	font-family: Arial;
+	width: 90%;
+}
+
+header {
+	background-color: orange;
+	padding: 5px 5px;
+	margin-top: 10px;
+}
+
+.title {
+	font-style:bold;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+
+#Y {
+	color: white;
+}
+
+#right {
+	float: right;
+}
+
+section {
+	padding-top: 10px;
+	background-color: lightgray;
+}
+
+.small {
+	font-size: 11px;
+	color: gray;
+}
+
+ol li {
+	font-size: 14px;
+	font-family: Arial;
+	margin-bottom: 7px;
+}
+
+ul li {
+	font-size: 14px;
+	font-family: Arial;
+	list-style: none;
+}
+
+nav {
+	text-align: center;
+	font-size: 12px;
+	color: gray;
+	padding-bottom: 10px;
+}
+
+form {
+	text-align: center;
+	padding: 20px;
+	color: gray;
+}

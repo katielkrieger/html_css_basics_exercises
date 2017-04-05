@@ -1,0 +1,53 @@
+body {
+	width: 100%;
+	text-align: center;
+}
+
+header {
+	width: 100%;
+	text-align: left;
+	margin-left: 2.5%;
+}
+
+div {
+	height: 100px;
+	display: inline-flex;
+	justify-content: space-around;
+}
+
+
+.container {
+	margin: 20px 0px;
+	width: 100%
+}
+
+.purple, .red, .orange, .green {
+	border: 2px solid black;
+}
+
+.red, .orange, .green {
+	height: 400px;
+	margin-right: 2.5%;
+	width: 28%;
+}
+
+.purple {
+	background-color: purple;
+	width: 91%;
+	height: 100px;
+	align-self: flex-start;
+	margin-bottom: 20px;
+	margin-right: 2.5%;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+.orange {
+	background-color: orange;
+}

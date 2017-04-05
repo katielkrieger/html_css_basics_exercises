@@ -1,0 +1,87 @@
+body {
+	background-color: #407F44;
+	margin: 0;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+#wrap {
+	background-color: #E7EB92;
+	margin: 0;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 900px;
+	
+}
+
+#header {
+	background-color: #E7EB92;
+	text-align: right;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	font-family: Arial;
+}
+
+#nav {
+	background-color: #4AB84A;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	font-family: Arial;
+	font-size: 20px;
+	border-bottom-style:dashed;
+	border-color: white;
+}
+
+#nav ul li {
+	display:inline;
+	font-family: Arial;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#sidebar {
+	background-color: #E7EB92;
+	font-family: Arial;
+	float: right;
+	width: 20%;
+	padding-bottom: 1000px;
+	margin-bottom: -1000px;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+
+#sidebar ul li {
+	font-size: 22px;
+}
+
+#content {
+	background-color: #6BB881;
+	float: left;
+	width: 75%;
+	font-family: Arial;
+}
+
+#content p, #content h1 {
+	padding-left: 10px;
+}
+
+#content h1 {
+	font-size: 40px;
+}
+
+#footer {
+	background-color: #407F44;
+	clear: both;
+	width: 100%;
+	padding-bottom: 20px;
+	position: fixed;
+	bottom: 0px;
+	
+}
+
+#poem {
+	list-style: none;
+	text-align: center;
+	font-size: 22px;
+}

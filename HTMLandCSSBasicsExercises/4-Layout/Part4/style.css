@@ -1,0 +1,62 @@
+body {
+	width: 100%;
+	text-align: center;
+}
+
+header {
+	width: 700px;
+	text-align: left;
+	margin-left: 2.5%;
+}
+
+div {
+	height: 100px;
+	display: inline-flex;
+	justify-content: space-around;
+}
+
+
+.container {
+	margin: 20px 0px;
+	width: 700px
+}
+
+.green, .red, .orange, .blue, {
+	border: 2px solid black;
+}
+
+.orange, .red, .blue, .image {
+	height: 200px;
+	margin-right: 2.5%;
+	width: 28%;
+}
+
+.green {
+	background-color: green;
+	width: 90%;
+	height: 100px;
+	align-self: flex-start;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	margin-right: 2.5%;
+}
+
+.image {
+	margin-bottom: 20px;
+}
+
+img {
+	width: 100%;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}

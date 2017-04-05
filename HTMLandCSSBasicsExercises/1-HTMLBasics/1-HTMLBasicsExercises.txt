@@ -1,0 +1,15 @@
+Katie Krieger
+4/3/2017
+
+
+Emmet Exercises
+1. h1 + tab
+2. div>p>section>h1{Nice!} + tab
+3. ul{outside}>li{inside}*4 + tab
+4. p{sibling 1}+div{sibling 2}+p{parent}>div{child}>div{grandchild} + tab
+
+
+HTML Basics Exercise
+https://www.rithmschool.com/courses/html-css-fundamentals/html-basics-exercise
+
+See html file pushed to GitHub

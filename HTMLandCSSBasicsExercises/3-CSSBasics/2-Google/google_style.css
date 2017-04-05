@@ -1,0 +1,92 @@
+
+header {
+	font-family:Futura;
+	text-align:right;
+	font-size:14px;
+	color: gray;
+}
+
+section {
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+
+.general {
+	font-family:Futura;
+	font-size:14px;
+}
+
+.textbox {
+	padding: 10px;
+
+}
+
+.blue {
+	color:blue;
+	font-size:80px;
+	font-family:Futura;
+}
+
+.green {
+	color:green;
+	font-size:80px;
+	font-family:Futura;
+}
+
+.red {
+	color:red;
+	font-size:80px;
+	font-family:Futura;
+}
+
+.yellow {
+	color:yellow;
+	font-size:80px;
+	font-family:Futura;
+}
+
+.nav {
+	background-color:lightgray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+form {
+	padding: 20px;
+}
+
+div input {
+	width: 450px;
+	height: 30px;
+}
+
+span input {
+	height: 35px;
+	color:gray;
+	background-color: lightgray;
+	border:none;
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.right {
+	float:right;
+	padding-right: 30px;
+	font-family: Arial;
+	font-size: 14px;
+	color: gray;
+}
+
+.left {
+	float:left;
+	padding-left: 30px;
+	font-family: Arial;
+	font-size: 14px;
+	color: gray;
+}

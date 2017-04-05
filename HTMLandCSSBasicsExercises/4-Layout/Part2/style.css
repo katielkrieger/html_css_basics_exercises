@@ -1,0 +1,46 @@
+body {
+	width: 100%;
+	text-align: center;
+}
+
+header {
+	width: 100%;
+	text-align: left;
+	margin-left: 2%;
+}
+
+div {
+	display: inline-block;
+	height: 100px;
+}
+
+.red, .blue, footer {
+	border: 2px solid black;
+}
+
+
+.container {
+	margin: 20px 0px;
+	width: 100%
+}
+
+.red {
+	background-color: red;
+	margin-right: 2.5%;
+	width: 25%;
+}
+
+.blue {
+	background-color: blue;
+	margin-right: 2.5%;
+	width: 65%;
+}
+
+footer {
+	background-color: yellow;
+	width: 93.5%;
+	height: 100px;
+	margin-top: 20px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
